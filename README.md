@@ -3,7 +3,7 @@
 - REST:		  Spring BOOT(Maven project)<br>
 - Cloud:		AWS<br><br>
 
-The Spring BOOT REST API application has been deployed to AWS and can be queried using the following links - 
+The Spring BOOT REST API application has been deployed to AWS and can be queried using the following links - <br>
 <b>Revenue:</b> http://transactionapi.us-east-2.elasticbeanstalk.com/revenue/  - shows the Total Revenue per year <br>
 <b> Active User Count:</b>  http://transactionapi.us-east-2.elasticbeanstalk.com/activeusers/ - gives the number of active users in each year. (Active user is any user with at least 1 transaction in a given year)<br>
 <b> New User Count:</b>  http://transactionapi.us-east-2.elasticbeanstalk.com/newusercount/ - Gives the count of users joined each year.<br>
